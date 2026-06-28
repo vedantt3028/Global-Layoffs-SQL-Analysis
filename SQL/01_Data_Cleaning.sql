@@ -1,3 +1,11 @@
+/*
+Project Name: Global Layoffs Data Analysis Pipeline
+Author: Vedant Shinde
+Database: MySQL
+Purpose: Data Cleaning
+*/
+
+
 -- SQL Project - Data Cleaning
 -- https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
